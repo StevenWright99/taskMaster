@@ -1,0 +1,19 @@
+body{
+    /*border: 2px solid black;*/
+    text-align: center;
+    font-family: sans-serif;
+    padding: 10px;
+}
+table,td,th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    display: flexbox;
+    align-items:center;
+    /*border: 2px solid green;*/
+    margin:auto; /*Must use marging for */
+}
+form{
+    margin: 5px;
+}
